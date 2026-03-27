@@ -22,7 +22,7 @@ else:
 ~~~
 
 ## Output
-<img width="1026" height="389" alt="Screenshot 2026-03-26 112240" src="https://github.com/user-attachments/assets/e77f41e9-d66a-48ed-a680-fb5c0617c497" />
+<img width="1007" height="549" alt="Screenshot 2026-03-27 172649" src="https://github.com/user-attachments/assets/e49d8a2b-32b2-4909-af28-601523880357" />
 
 
 ## Result
